@@ -35,9 +35,6 @@ function Navbar() {
           Kitchen Delights
         </Typography>
         <AuthModal />
-        <Button variant="outlined" sx={{ ...styles.button }}>
-          Contact Us
-        </Button>
       </Toolbar>
     </AppBar>
   );
